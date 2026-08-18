@@ -113,15 +113,20 @@ const samium = {
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SamiumBashir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samium's GitHub Stats" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamiumBashir&theme=tokyonight" alt="Samium's GitHub Stats" width="100%" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiumBashir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamiumBashir&theme=tokyonight" alt="Top Languages" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiumBashir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com?user=SamiumBashir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiumBashir&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
       </td>
     </tr>
   </table>
