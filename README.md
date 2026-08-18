@@ -2,17 +2,17 @@
 
   <!-- Header Typing SVG Animation -->
   <a href="https://github.com/SamiumBashir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Samium+Bashir!;Full-Stack+Web+Developer;Building+Modern+Web+Applications;Passionate+About+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=520&lines=Hi,+I'm+Samium+Bashir!;Frontend+%26+Full-Stack+Web+Developer;Building+Modern,+Scalable+Web+Apps;Crafting+Pixel-Perfect+User+Interfaces" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Crafting scalable web solutions, breaking things, fixing them & repeating! 🚀</strong>
+    <strong>Building intuitive, high-performance web applications with modern technologies 🚀</strong>
   </p>
 
   <p align="center">
-    <a href="https://samium.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://samium.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/samiumbashir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:samiumbashir@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/SamiumBashir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
   <!-- Animated Profile Views Counter -->
@@ -29,19 +29,19 @@
 ```javascript
 const samium = {
     name: "Samium Bashir",
-    role: "Full-Stack Web Developer",
+    role: "Frontend & Full-Stack Web Developer",
     location: "Mirpur-13, Dhaka, Bangladesh",
     portfolio: "https://samium.vercel.app/",
-    currentFocus: ["Next.js", "TypeScript", "Scalable Web Architecture"],
-    passions: ["Building Web Apps", "Problem Solving", "UI/UX Design"],
+    currentFocus: ["Next.js", "React", "TypeScript", "Modern UI/UX Architecture"],
+    passions: ["Building Scalable Web Apps", "Performance Optimization", "Clean Code"],
     quote: "Writing code, Breaking things, Fixing them, Repeating..."
 };
 ```
 
-- 🔭 **Currently Working On:** Full-stack web applications and Chrome extensions
-- 🌱 **Learning & Exploring:** Advanced Next.js, Microservices, and AI Integration
-- 💬 **Ask Me About:** JavaScript, React, Node.js, Web Development & UI Design
-- ⚡ **Fun Fact:** I love turning caffeine into clean, production-ready code ☕
+- 🔭 **Currently Building:** High-performance web applications and Chrome extensions
+- 🌱 **Learning & Exploring:** Advanced Next.js, Serverless Architecture & Cloud Integration
+- 💬 **Ask Me About:** JavaScript, React, Next.js, Tailwind CSS, Responsive Design & Web APIs
+- ⚡ **Fun Fact:** I turn ideas into responsive, pixel-perfect digital experiences ☕
 
 ---
 
@@ -143,9 +143,6 @@ const samium = {
   </a>
   <a href="https://linkedin.com/in/samiumbashir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:samiumbashir@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/SamiumBashir" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
